@@ -1,0 +1,482 @@
+,index,school_district,avg_rating,total_enrollment,num_schools,avg_pct_low_income,state,first_word,school_district_id,GEOID
+0,42,District of Columbia Public Schools,5.7,48218,104,81.2,DC,,,1100030
+1,71,Alachua,5.0,29834,60,52.2,FL,Alachua,Alachua County School District,1200030
+2,312,Baker,5.2,5060,7,33.6,FL,Baker,Baker County School District,1200060
+3,97,Bay,4.9,23100,38,58.4,FL,Bay,Bay County School District,1200090
+4,26,Brevard,5.8,73331,100,49.7,FL,Brevard,Brevard County School District,1200150
+5,1,Broward,5.7,271240,295,64.9,FL,Broward,Broward County School District,1200180
+6,130,Citrus,5.1,15355,22,64.8,FL,Citrus,Citrus County School District,1200270
+7,43,Collier,5.7,47416,62,65.5,FL,Collier,Collier County School District,1200330
+8,503,Dixie,5.5,2228,7,51.1,FL,Dixie,Dixie County School District,1200450
+9,12,Duval,4.8,129317,181,55.1,FL,Duval,Duval County School District,1200480
+10,56,Escambia,4.4,40390,65,56.7,FL,Escambia,Escambia County School District,1200510
+11,152,Flagler,5.4,12980,14,45.5,FL,Flagler,Flagler County School District,1200540
+12,276,Gadsden,4.2,6023,18,69.1,FL,Gadsden,Gadsden County School District,1200600
+13,455,Gilchrist,7.2,2752,7,39.2,FL,Gilchrist,Gilchrist County School District,1200630
+14,550,Glades,4.4,1751,9,25.1,FL,Glades,Glades County School District,1200660
+15,537,Gulf,3.2,1942,5,47.8,FL,Gulf,Gulf County School District,1200690
+16,572,Hamilton,2.0,1610,6,43.0,FL,Hamilton,Hamilton County School District,1200720
+17,311,Hardee,5.1,5080,11,66.6,FL,Hardee,Hardee County School District,1200750
+18,250,Hendry,4.1,7266,17,59.9,FL,Hendry,Hendry County School District,1200780
+19,99,Hernando,4.8,22914,29,50.9,FL,Hernando,Hernando County School District,1200810
+20,2,Hillsborough,4.6,219178,258,64.1,FL,Hillsborough,Hillsborough County School District,1200870
+21,383,Holmes,4.0,3816,11,43.8,FL,Holmes,Holmes County School District,1200900
+22,116,Indian River,5.3,17784,28,59.0,FL,Indian River,Indian River County School District,1200930
+23,625,Lafayette,7.0,1228,4,38.8,FL,Lafayette,Lafayette County School District,1201020
+24,62,Leon,5.2,33623,48,42.8,FL,Leon,Leon County School District,1201110
+25,280,Levy,4.1,5959,16,56.3,FL,Levy,Levy County School District,1201140
+26,40,Manatee,5.1,49567,69,55.2,FL,Manatee,Manatee County School District,1201230
+27,112,Martin,6.0,18544,30,40.9,FL,Martin,Martin County School District,1201290
+28,166,Nassau,6.9,12118,20,42.8,FL,Nassau,Nassau County School District,1201350
+29,67,Okaloosa,6.9,31587,46,47.7,FL,Okaloosa,Okaloosa County School District,1201380
+30,268,Okeechobee,4.1,6347,13,47.3,FL,Okeechobee,Okeechobee County School District,1201410
+31,29,Osceola,4.5,68519,75,45.8,FL,Osceola,Osceola County School District,1201470
+32,4,Palm Beach,5.8,193299,201,62.6,FL,Palm,Palm Beach County School District,1201500
+33,25,Pasco,5.4,75062,97,58.4,FL,Pasco,Pasco County School District,1201530
+34,16,Pinellas,5.2,100036,140,52.7,FL,Pinellas,Pinellas County School District,1201560
+35,75,Santa Rosa,6.5,28422,35,45.7,FL,Santa,Santa Rosa County School District,1201650
+36,55,Sarasota,6.6,40793,53,48.5,FL,Sarasota,Sarasota County School District,1201680
+37,51,St. Johns,7.9,41587,45,19.6,FL,St. Johns,St. Johns County School District,1201740
+38,53,St. Lucie,4.6,41338,47,57.1,FL,St. Lucie,St. Lucie County School District,1201770
+39,281,Suwannee,4.7,5956,11,44.1,FL,Suwannee,Suwannee County School District,1201830
+40,31,Volusia,4.6,63040,81,63.4,FL,Volusia,Volusia County School District,1201920
+41,314,Wakulla,5.6,5057,12,48.5,FL,Wakulla,Wakulla County School District,1201950
+42,157,Troup County,4.4,12652,19,72.0,GA,Troup,Troup County School District,1300001
+43,399,Appling County,5.4,3585,6,90.0,GA,Appling,Appling County School District,1300060
+44,557,Atkinson County,5.8,1693,4,84.8,GA,Atkinson,Atkinson County School District,1300090
+45,514,Bacon County,5.7,2141,4,74.5,GA,Bacon,Bacon County School District,1300150
+46,313,Baker,5.2,5060,7,33.6,FL,Baker,Baker County School District,1300180
+47,224,Baldwin County,3.8,8241,10,88.6,GA,Baldwin,Baldwin County School District,1300210
+48,456,Banks County,5.3,2750,3,59.2,GA,Banks,Banks County School District,1300240
+49,141,Barrow County,5.7,14057,16,62.9,GA,Barrow,Barrow County School District,1300290
+50,149,Bartow County,5.0,13432,19,57.5,GA,Bartow,Bartow County School District,1300330
+51,423,Ben Hill County,3.0,3125,4,92.0,GA,Ben Hill ,Ben Hill County School District,1300360
+52,421,Berrien County,5.2,3161,5,83.6,GA,Berrien,Berrien County School District,1300390
+53,92,Bibb County,4.0,23910,38,96.5,GA,Bibb,Bibb County School District,1300420
+54,471,Bleckley County,5.0,2568,5,74.4,GA,Bleckley,Bleckley County School District,1300440
+55,405,Brantley County,7.0,3455,7,85.1,GA,Brantley,Brantley County School District,1300480
+56,495,Bremen City,7.8,2296,4,19.8,GA,Bremen,Bremen City School District,1300510
+57,513,Brooks County,2.6,2168,6,98.8,GA,Brooks,Brooks County School District,1300540
+58,195,Bryan County,5.9,9634,10,43.0,GA,Bryan,Bryan County School District,1300570
+59,318,Buford City,7.7,4966,4,35.2,GA,Buford,Buford City School District,1300600
+60,183,Bulloch County,4.8,10646,15,60.3,GA,Bulloch,Bulloch County School District,1300630
+61,404,Butts County,3.8,3481,5,89.0,GA,Butts,Butts County School District,1300690
+62,457,Candler County,4.7,2749,4,90.0,GA,Candler,Candler County School District,1300810
+63,335,Cartersville City,6.0,4540,4,52.5,GA,Cartersville,Cartersville City School District,1300900
+64,181,Catoosa County,5.7,10753,15,50.4,GA,Catoosa,Catoosa County School District,1300930
+65,554,Charlton County,5.5,1721,4,68.8,GA,Charlton,Charlton County School District,1300990
+66,671,Chattahoochee County,4.7,918,3,73.7,GA,Chattahoochee,Chattahoochee County School District,1301050
+67,459,Chattooga County,5.0,2713,6,68.7,GA,Chattooga,Chattooga County School District,1301080
+68,605,Chickamauga City,7.7,1315,3,20.7,GA,Chickamauga,Chickamauga City School District,1301140
+69,594,Clinch County,4.0,1352,4,84.0,GA,Clinch,Clinch County School District,1301260
+70,14,Cobb County,6.3,112886,111,45.1,GA,Cobb,Cobb County School District,1301290
+71,242,Coffee County,5.5,7724,11,87.0,GA,Coffee,Coffee County School District,1301350
+72,197,Colquitt County,4.0,9578,14,95.1,GA,Colquitt,Colquitt County School District,1301380
+73,556,Commerce City,5.7,1704,4,54.8,GA,Commerce,Commerce City School District,1301440
+74,422,Cook County,4.3,3134,4,80.2,GA,Cook,Cook County School District,1301470
+75,551,Crawford County,4.0,1731,3,92.0,GA,Crawford,Crawford County School District,1301530
+76,374,Crisp County,3.8,3951,5,55.0,GA,Crisp,Crisp County School District,1301560
+77,235,Dalton Public Schools,5.4,7921,9,77.1,GA,Dalton,Dalton City School District,1301620
+78,397,Dawson County,6.4,3590,6,44.0,GA,Dawson,Dawson County School District,1301650
+79,17,DeKalb County,4.8,99414,125,73.3,GA,DeKalb,DeKalb County School District,1301740
+80,427,Dodge County,4.8,3083,5,84.4,GA,Dodge,Dodge County School District,1301770
+81,624,Dooly County,2.7,1233,4,55.3,GA,Dooly,Dooly County School District,1301800
+82,129,Dougherty County,3.8,15359,22,100.0,GA,Dougherty,Dougherty School District,1301830
+83,83,Douglas County,5.6,26555,33,66.3,GA,Douglas,Douglas County School District,1301860
+84,487,Dublin City,3.5,2363,5,100.0,GA,Dublin,Dublin City School District,1301870
+85,263,Laurens County,5.9,6594,8,75.6,GA,Laurens,Laurens County School District,1301890
+86,529,Early County,3.3,2015,3,97.0,GA,Early,Early County School District,1301920
+87,678,Echols County,5.0,873,2,91.0,GA,Echols,Echols County School District,1301950
+88,156,Effingham County,6.8,12735,12,40.3,GA,Effingham,Effingham County School District,1301980
+89,431,Elbert County,3.0,3047,5,85.6,GA,Elbert,Elbert County School District,1302010
+90,350,Emanuel County,4.0,4284,7,87.0,GA,Emanuel,Emanuel County School District,1302040
+91,540,Evans County,3.7,1897,4,100.0,GA,Evans,Evans County School District,1302070
+92,437,Fannin County,5.4,2991,5,58.8,GA,Fannin,Fannin County School District,1302100
+93,18,Fulton County,5.9,94491,101,50.5,GA,Fulton,Fulton County School District,1302280
+94,232,Gainesville City,3.8,8042,8,71.5,GA,Gainesville,Gainesville City School District,1302310
+95,151,Glynn County,6.0,13290,18,65.0,GA,Glynn,Glynn County School District,1302400
+96,255,Gordon County,5.7,6953,11,62.6,GA,Gordon,Gordon County School District,1302430
+97,328,Grady County,3.7,4669,7,90.0,GA,Grady,Grady County School District,1302460
+98,185,Griffin-Spalding County,4.2,10353,19,76.7,GA,Spalding,Spalding County School District,1302520
+99,6,Gwinnett County,6.7,179758,135,54.5,GA,Gwinnett,Gwinnett County School District,1302550
+100,256,Habersham County,6.2,6928,13,62.4,GA,Habersham,Habersham County School District,1302580
+101,80,Hall County,4.9,27057,37,56.3,GA,Hall,Hall County School District,1302610
+102,409,Haralson County,5.8,3360,7,71.0,GA,Haralson,Haralson County School District,1302670
+103,297,Harris County,5.7,5448,7,34.9,GA,Harris,Harris County School District,1302700
+104,400,Hart County,5.0,3564,5,60.6,GA,Hart,Hart County School District,1302730
+105,518,Heard County,5.8,2109,5,58.2,GA,Heard,Heard County School District,1302790
+106,72,Houston County,6.1,29770,37,65.1,GA,Houston,Houston County School District,1302880
+107,555,Irwin County,4.7,1719,3,80.0,GA,Irwin,Irwin County School District,1302910
+108,426,Jeff Davis County,5.3,3099,4,77.5,GA,Jeff,Jeff Davis County School District,1303000
+109,634,Jenkins County,4.3,1163,3,100.0,GA,Jenkins,Jenkins County School District,1303090
+110,643,Johnson County,4.7,1122,3,90.0,GA,Johnson,Johnson County School District,1303120
+111,461,Lamar County,3.3,2675,4,68.2,GA,Lamar,Lamar County School District,1303210
+112,553,Lanier County,4.7,1725,4,96.0,GA,Lanier,Lanier County School District,1303240
+113,333,Long County,5.0,4571,5,75.0,GA,Long,Long County School District,1303360
+114,182,Lowndes County,6.4,10657,11,53.5,GA,Lowndes,Lowndes County School District,1303390
+115,380,Lumpkin County,6.2,3854,5,49.4,GA,Lumpkin,Lumpkin County School District,1303420
+116,213,Marietta City,5.5,8772,13,51.1,GA,Marietta,Marietta City School District,1303510
+117,384,McDuffie County,3.2,3810,6,88.3,GA,McDuffie,McDuffie County School District,1303570
+118,601,McIntosh County,3.7,1323,3,85.7,GA,McIntosh,McIntosh County School District,1303600
+119,473,Meriwether County,3.3,2557,7,92.0,GA,Meriwether,Meriwether County School District,1303630
+120,670,Miller County,4.0,922,3,91.0,GA,Miller,Miller County School District,1303660
+121,249,Murray County,4.3,7266,11,74.6,GA,Murray,Murray County School District,1303840
+122,66,Muscogee County,4.6,31859,50,81.4,GA,Muscogee,Muscogee County School District,1303870
+123,520,Oglethorpe County,6.0,2102,4,60.5,GA,Oglethorpe,Oglethorpe County School District,1303990
+124,70,Paulding County,6.2,29962,31,45.5,GA,Paulding,Paulding County School District,1304020
+125,398,Peach County,4.7,3586,6,88.0,GA,Peach,Peach County School District,1304050
+126,587,Pelham City,3.7,1431,3,100.0,GA,Pelham,Pelham City School District,1304080
+127,393,Pierce County,6.6,3622,5,60.2,GA,Pierce,Pierce County School District,1304140
+128,416,Pike County,4.2,3286,5,36.4,GA,Pike,Pike County School District,1304170
+129,502,Rabun County,7.3,2235,4,64.5,GA,Rabun,Rabun County School District,1304320
+130,610,Richmond Co Public Schools,5.5,1314,3,74.0,VA,Richmond,Richmond County School District,1304380
+131,120,Rockdale County,4.8,16828,19,71.6,GA,Rockdale,Rockdale County School District,1304410
+132,260,Rome City,4.5,6752,9,93.0,GA,Rome,Rome City School District,1304440
+133,613,Schley County,6.0,1307,2,52.0,GA,Schley,Schley County School District,1304470
+134,494,Screven County,6.0,2307,3,79.0,GA,Screven,Screven County School District,1304500
+135,547,Social Circle City,5.0,1788,4,44.2,GA,Social,Social Circle City School District,1304540
+136,376,Stephens County,4.5,3933,6,68.8,GA,Stephens,Stephens County School District,1304560
+137,377,Tattnall County,4.7,3910,7,90.1,GA,Tattnall,Tattnall County School District,1304770
+138,552,Telfair County,4.0,1728,4,96.2,GA,Telfair,Telfair County School District,1304830
+139,618,Terrell County,3.3,1278,3,100.0,GA,Terrell,Terrell County School District,1304860
+140,285,Thomas County,4.8,5835,7,77.9,GA,Thomas,Thomas County School District,1304890
+141,238,Tift County,3.7,7887,12,96.0,GA,Tift,Tift County School District,1304980
+142,438,Toombs County,5.0,2949,5,100.0,GA,Toombs,Toombs County School District,1305040
+143,664,Towns County,7.3,952,3,47.3,GA,Towns,Towns County School District,1305070
+144,641,Treutlen County,3.0,1122,2,100.0,GA,Treutlen,Treutlen County School District,1305100
+145,590,Trion City,8.0,1400,3,52.0,GA,Trion,Trion City School District,1305130
+146,622,Turner County,3.3,1238,4,99.2,GA,Turner,Turner County School District,1305190
+147,703,Twiggs County,3.3,790,3,100.0,GA,Twiggs,Twiggs County School District,1305220
+148,363,Thomaston-Upson County,4.7,4089,4,85.8,GA,Upson,Upson County School District,1305280
+149,219,Valdosta City,3.9,8472,8,100.0,GA,Valdosta,Valdosta City School District,1305310
+150,470,Vidalia City,4.0,2577,4,82.5,GA,Vidalia,Vidalia City School District,1305340
+151,215,Walker County,5.3,8677,15,71.8,GA,Walker,Walker County School District,1305370
+152,270,Ware County,5.3,6153,8,86.4,GA,Ware,Ware County School District,1305430
+153,606,Webster County Schools,4.2,1315,4,69.8,WV,Webster,Webster County School District,1305580
+154,658,Wheeler County,4.0,1007,3,100.0,GA,Wheeler,Wheeler County School District,1305640
+155,358,White County,7.0,4160,7,55.0,GA,White,White County School District,1305670
+156,153,Whitfield County,6.0,12964,21,69.1,GA,Whitfield,Whitfield County School District,1305700
+157,630,Wilcox County,5.3,1201,3,94.0,GA,Wilcox,Wilcox County School District,1305730
+158,604,Wilkinson County,3.3,1318,4,59.8,GA,Wilkinson,Wilkinson County School District,1305790
+159,418,Worth County,3.7,3248,5,93.0,GA,Worth,Worth County School District,1305850
+160,218,Allegany County Public Schools,6.3,8539,21,58.2,MD,Allegany,Allegany County Public Schools,2400030
+161,21,Anne Arundel County Public Schools,5.6,83300,112,35.3,MD,Anne,Anne Arundel County Public Schools,2400060
+162,23,Baltimore City Public Schools,3.2,81426,149,99.8,MD,,,2400090
+163,13,Baltimore County Public Schools,4.8,113374,154,50.8,MD,,,2400120
+164,127,Calvert County Public Schools,6.9,15900,24,23.8,MD,Calvert,Calvert County Public Schools,2400150
+165,286,Caroline County Public Schools,5.6,5829,10,56.2,MD,,,2400180
+166,87,Carroll County Public Schools,7.7,25137,42,23.2,MD,,,2400210
+167,132,Cecil County Public Schools,5.5,15307,29,46.2,MD,Cecil,Cecil County Public Schools,2400240
+168,79,Charles County Public Schools,5.3,27108,38,38.0,MD,,,2400270
+169,324,Dorchester County Public Schools,4.7,4785,12,100.0,MD,,,2400300
+170,46,Frederick County Public Schools,7.1,42638,64,29.2,MD,,,2400330
+171,378,Garrett County Public Schools,5.3,3874,13,46.2,MD,Garrett,Garrett County Public Schools,2400360
+172,59,Harford County Public Schools,6.1,37705,50,34.5,MD,Harford,Harford County Public Schools,2400390
+173,32,Howard County Public Schools,6.7,58733,73,22.3,MD,,,2400420
+174,490,Kent County Public Schools,4.0,2339,7,52.3,MD,Kent,Kent County Public Schools,2400450
+175,8,Montgomery County Public Schools,6.0,153187,173,36.3,MD,,,2400480
+176,11,Prince George's County Public Schools,4.1,133337,181,66.1,MD,Prince,Prince George's County Public Schools,2400510
+177,241,Queen Anne's County Public Schools,6.8,7749,14,26.4,MD,Queen,Queen Annes County Public Schools,2400540
+178,410,Somerset County Public Schools,4.8,3350,10,100.0,MD,Somerset,Somerset County Public Schools,2400570
+179,327,Talbot County Public Schools,5.6,4674,7,45.9,MD,Talbot County,Talbot County Public Schools,2400630
+180,135,Wicomico County Public Schools,4.9,14949,25,63.1,MD,Wicomico,Wicomico County Public Schools,2400690
+181,259,Worcester County Public Schools,6.9,6753,13,46.8,MD,Worcester,Worcester County Public Schools,2400720
+182,38,Cumberland County Schools,4.6,50879,82,81.1,NC,,,3700011
+183,95,Pitt County Schools,4.9,23630,37,72.5,NC,Pitt,Pitt County Schools,3700012
+184,98,Alamance-Burlington Schools,4.3,23076,36,64.1,NC,Alamance-Burlington,Alamance-Burlington Schools,3700030
+185,323,Alexander County Schools,6.4,4865,11,47.3,NC,Alexander,Alexander County Schools,3700090
+186,589,Alleghany County Schools,6.5,1416,4,60.2,NC,,,3700120
+187,415,Anson County Schools,4.4,3298,11,97.9,NC,Anson,Anson County Schools,3700180
+188,430,Ashe County Schools,7.0,3049,6,54.7,NC,Ashe,Ashe County Schools,3700210
+189,338,Asheboro City Schools,4.8,4485,8,76.9,NC,Asheboro,Asheboro City Schools,3700240
+190,341,Asheville City Schools,5.3,4435,10,38.8,NC,Asheville,Asheville City Schools,3700270
+191,531,Avery County Schools,7.0,1998,11,54.4,NC,Avery,Avery County Schools,3700300
+192,261,Beaufort County Schools,4.8,6605,14,95.4,NC,,,3700330
+193,489,Bertie County Schools,4.4,2345,8,98.5,NC,Bertie,Bertie County Schools,3700360
+194,336,Bladen County Schools,3.8,4533,14,98.3,NC,Bladen,Bladen County Schools,3700390
+195,160,Brunswick County Schools,5.2,12531,18,66.3,NC,,,3700420
+196,93,Buncombe County Schools,5.3,23677,41,54.9,NC,Buncombe,Buncombe County Schools,3700450
+197,159,Burke County Schools,6.0,12541,26,60.2,NC,,,3700480
+198,63,Cabarrus County Schools,6.7,33089,39,46.4,NC,,,3700530
+199,170,Caldwell County Schools,5.3,11621,26,65.0,NC,Caldwell,Caldwell County Schools,3700580
+200,541,Camden County Schools,5.0,1892,5,21.8,NC,,,3700600
+201,228,Carteret County Public Schools,7.2,8206,18,60.4,NC,Carteret,Carteret County Schools,3700630
+202,475,Caswell County Schools,4.0,2530,6,85.7,NC,Caswell,Caswell County Schools,3700660
+203,125,Catawba County Schools,5.9,16038,27,50.1,NC,Catawba,Catawba County Schools,3700690
+204,164,Chapel Hill-Carrboro City Schools,6.1,12422,20,28.6,NC,Chapel Hill-Carrboro,Chapel Hill-Carrboro Schools,3700720
+205,203,Chatham County Schools,5.3,9078,18,48.4,NC,,,3700750
+206,413,Cherokee County Schools,5.8,3323,13,76.2,NC,,,3700780
+207,528,Edenton-Chowan Schools,5.3,2015,4,61.5,NC,Edenton-Chowan,Edenton-Chowan Schools,3700840
+208,419,Clay County Schools,5.7,3208,9,61.9,WV,,,3700870
+209,136,Cleveland County Schools,5.6,14709,28,78.6,NC,Cleveland,Cleveland County Schools,3700900
+210,429,Clinton City Schools,5.2,3063,5,99.4,NC,Clinton,Clinton City Schools,3700930
+211,284,Columbus County Schools,4.3,5865,17,98.7,NC,,,3700960
+212,362,Currituck County Schools,5.5,4117,10,30.9,NC,Currituck,Currituck County Schools,3701080
+213,302,Dare County Schools,6.5,5285,10,39.0,NC,Dare,Dare County Schools,3701110
+214,111,Davidson County Schools,5.7,18974,35,45.6,NC,,,3701140
+215,272,Davie County Schools,6.3,6108,12,48.8,NC,Davie,Davie County Schools,3701170
+216,179,Duplin County Schools,4.6,10800,16,99.4,NC,Duplin,Duplin County Schools,3701200
+217,65,Durham Public Schools,4.8,32727,52,64.3,NC,Durham Public,Durham Public Schools,3701260
+218,278,Edgecombe County Public Schools,3.9,5998,14,93.3,NC,Edgecombe,Edgecombe County Schools,3701320
+219,631,Elkin City Schools,7.3,1193,3,39.0,NC,Elkin,Elkin City Schools,3701380
+220,227,Franklin County Schools,4.8,8211,16,62.1,NC,,,3701530
+221,68,Gaston County Schools,5.2,31330,52,63.6,NC,,,3701620
+222,558,Gates County Schools,5.0,1691,5,51.8,NC,Gates,Gates County Schools,3701680
+223,633,Graham County Schools,5.0,1169,3,61.3,NC,Graham,Graham County Schools,3701770
+224,245,Granville County Schools,3.8,7526,19,59.8,NC,Granville,Granville County Schools,3701800
+225,442,Greene County Schools,4.2,2917,6,99.2,NC,,,3701830
+226,27,Guilford County Schools,4.9,72567,118,69.8,NC,Guilford,Guilford County Schools,3701920
+227,477,Halifax County Schools,4.0,2487,9,98.3,NC,,,3701950
+228,104,Harnett County Schools,4.4,20564,28,66.2,NC,Harnett,Harnett County Schools,3702010
+229,251,Haywood County Schools,5.8,7226,15,59.7,NC,Haywood,Haywood County Schools,3702040
+230,150,Henderson County Schools,6.4,13378,23,53.0,NC,,,3702100
+231,450,Hertford County Schools,3.5,2865,7,98.7,NC,Hertford,Hertford County Schools,3702160
+232,356,Hickory City Schools,4.1,4179,9,65.4,NC,Hickory,Hickory City Schools,3702190
+233,205,Hoke County Schools,5.2,9026,14,78.6,NC,Hoke,Hoke County Schools,3702250
+234,757,Hyde County Schools,5.3,606,3,87.3,NC,Hyde,Hyde County Schools,3702280
+235,105,Iredell-Statesville Schools,5.7,20543,38,45.3,NC,Iredell-Statesville,Iredell-Statesville Schools,3702310
+236,332,Jackson County Schools,6.5,4589,13,45.5,WV,,,3702340
+237,642,Jones County Schools,5.0,1122,7,96.5,NC,,,3702400
+238,269,Kannapolis City Schools,3.9,6323,9,99.3,NC,Kannapolis,Kannapolis City Schools,3702430
+239,192,Lee County Schools,5.2,9876,14,68.9,NC,,,3702560
+240,216,Lenoir County Public Schools,4.0,8630,17,98.8,NC,Lenoir,Lenoir County Schools,3702610
+241,432,Lexington City Schools,3.8,3043,6,98.8,NC,Lexington,Lexington City Schools,3702640
+242,131,Lincoln County Schools,5.2,15328,32,55.0,NC,,,3702680
+243,339,Macon County Schools,5.6,4479,12,61.0,NC,,,3702760
+244,498,Madison County Schools,7.2,2272,7,55.2,NC,,,3702820
+245,412,Martin County Schools,3.4,3338,10,98.6,NC,Martin County Schools,Martin County Schools,3702880
+246,207,McDowell County Schools,4.9,8994,25,62.7,NC,McDowell,McDowell County Schools,3702940
+247,10,Charlotte-Mecklenburg Schools,5.0,149967,164,62.7,NC,,,3702970
+248,544,Mitchell County Schools,5.7,1846,7,52.0,NC,,,3703000
+249,373,Montgomery County Schools,5.3,3955,12,72.8,NC,,,3703060
+250,154,Moore County Schools,5.0,12866,24,50.3,NC,Moore,Moore County Schools,3703090
+251,274,Mooresville Graded School District,6.0,6059,8,37.3,NC,Mooresville,Mooresville City Schools,3703120
+252,564,Mount Airy City Schools,6.0,1659,4,59.2,NC,,,3703210
+253,133,Nash-Rocky Mount Schools,3.5,15061,29,80.6,NC,Nash-Rocky,Nash-Rocky Mount Schools,3703270
+254,144,Craven County Schools,4.6,13719,25,59.0,NC,Craven,Craven County Schools,3703310
+255,85,New Hanover County Schools,5.4,26095,44,65.8,NC,,,3703330
+256,576,Northampton County Schools,3.6,1589,6,98.7,NC,,,3703420
+257,81,Onslow County Schools,5.2,26864,35,50.6,NC,Onslow,Onslow County Schools,3703450
+258,246,Orange County Schools,5.3,7429,12,45.5,NC,,,3703480
+259,597,Pamlico County Schools,6.3,1350,4,84.0,NC,Pamlico,Pamlico County Schools,3703510
+260,293,Elizabeth City-Pasquotank Public Schools,3.6,5557,13,72.0,NC,Pasquotank,Pasquotank County Schools,3703540
+261,200,Pender County Schools,6.4,9430,18,61.2,NC,Pender,Pender County Schools,3703570
+262,566,Perquimans County Schools,4.0,1650,4,56.0,NC,Perquimans,Perquimans County Schools,3703600
+263,342,Person County Schools,4.7,4426,11,81.5,NC,Person,Person County Schools,3703630
+264,504,Polk County Schools,6.7,2227,7,72.9,NC,,,3703720
+265,368,Randolph County Schools,3.8,4053,16,53.5,WV,,,3703780
+266,611,Richmond Co Public Schools,5.5,1314,3,74.0,VA,Richmond,Richmond County Schools,3703870
+267,247,Richmond County Schools,5.3,7337,16,98.6,NC,,,3703870
+268,440,Roanoke Rapids City Schools,4.0,2945,5,62.4,NC,,,3703900
+269,102,Public Schools of Robeson County,3.8,22423,41,99.3,NC,Robeson,Robeson County Schools,3703930
+270,158,Rockingham County Schools,4.8,12550,24,68.4,NC,,,3703990
+271,109,Rowan-Salisbury Schools,3.6,19585,32,67.7,NC,Rowan-Salisbury,Rowan-Salisbury Schools,3704050
+272,230,Rutherford County Schools,6.3,8063,18,99.0,NC,Rutherford,Rutherford County Schools,3704080
+273,229,Sampson County Schools,5.6,8196,18,98.8,NC,Sampson,Sampson County Schools,3704140
+274,277,Scotland County Schools,3.0,5999,12,98.1,NC,Scotland,Scotland County Schools,3704200
+275,221,Stanly County Schools,6.0,8445,22,53.4,NC,Stanly,Stanly County Schools,3704320
+276,282,Stokes County Schools,5.7,5921,18,52.6,NC,Stokes,Stokes County Schools,3704380
+277,239,Surry County Schools,6.5,7810,19,63.5,NC,,,3704410
+278,527,Swain County Schools,5.0,2044,5,54.2,NC,Swain,Swain County Schools,3704440
+279,488,Thomasville City Schools,3.8,2362,4,98.0,NC,,,3704500
+280,407,Transylvania County Schools,5.9,3390,9,57.2,NC,Transylvania,Transylvania County Schools,3704530
+281,740,Tyrrell County Schools,4.3,653,3,98.3,NC,Tyrrell,Tyrrell County Schools,3704590
+282,52,Union County Public Schools,6.8,41388,50,37.2,NC,,,3704620
+283,257,Vance County Schools,4.7,6856,17,98.4,NC,,,3704650
+284,7,Wake County Schools,5.0,161561,171,37.5,NC,,,3704720
+285,532,Warren County Schools,3.9,1984,8,98.2,NC,,,3704740
+286,580,Washington County Schools,3.8,1502,5,97.7,NC,,,3704800
+287,326,Watauga County Schools,6.6,4708,10,38.1,NC,Watauga,Watauga County Schools,3704830
+288,113,Wayne County Public Schools,4.5,18302,29,87.2,NC,,,3704880
+289,687,Weldon City Schools,2.8,841,4,98.2,NC,Weldon,Weldon City Schools,3704890
+290,496,Whiteville City Schools,4.7,2286,5,97.6,NC,Whiteville,Whiteville City Schools,3704920
+291,199,Wilkes County Schools,5.7,9434,22,85.0,NC,,,3704950
+292,174,Wilson County Schools,5.1,11146,26,67.5,NC,,,3705020
+293,300,Yadkin County Schools,6.1,5352,13,59.7,NC,Yadkin,Yadkin County Schools,3705040
+294,509,Yancey County Schools,5.6,2195,10,51.8,NC,Yancey,Yancey County Schools,3705070
+295,435,Abbeville 60,6.7,3012,9,68.5,SC,Abbeville,District of Columbia Public Schools,4500690
+296,90,Aiken 01,5.2,24820,42,74.5,SC,Aiken,Aiken County School District,4500720
+297,644,Allendale 01,2.0,1120,4,100.0,SC,Allendale,Allendale County School District,4500750
+298,187,Anderson 01,7.1,10210,14,40.0,SC,Anderson 01,Anderson School District 1,4500780
+299,386,Anderson 02,5.3,3771,7,56.0,SC,Anderson 02,Anderson School District 2,4500810
+300,467,Anderson 03,7.2,2599,5,82.2,SC,Anderson 03,Anderson School District 3,4500840
+301,452,Anderson 04,7.2,2843,6,53.3,SC,Anderson 04,Anderson School District 4,4500870
+302,145,Anderson 05,5.5,13647,21,71.9,SC,Anderson 05,Anderson School District 5,4500900
+303,614,Bamberg 01,4.0,1299,3,100.0,SC,Bamberg 01,Bamberg School District 1,4500930
+304,734,Bamberg 02,2.3,671,3,100.0,SC,Bamberg 02,Bamberg School District 2,4500960
+305,721,Barnwell 19,3.0,731,3,98.0,SC,Barnwell 19,Barnwell School District 19,4501020
+306,686,Barnwell 29,4.0,842,3,100.0,SC,Barnwell 29,Barnwell School District 29,4501050
+307,508,Barnwell 45,3.5,2203,4,100.0,SC,Barnwell 45,Barnwell School District 45,4501080
+308,308,Chester 01,3.6,5168,12,100.0,SC,Chester,Chester County School District,4501530
+309,715,Clarendon 01,3.3,752,3,100.0,SC,Clarendon 01,Clarendon School District 1,4501740
+310,443,Clarendon 02,2.4,2897,6,100.0,SC,Clarendon 02,Clarendon School District 2,4501770
+311,612,Clarendon 03,5.0,1308,2,59.0,SC,Clarendon 03,Clarendon School District 3,4501800
+312,294,Colleton 01,2.6,5534,9,100.0,SC,Colleton,Colleton County School District,4501830
+313,190,Darlington 01,4.4,9970,22,100.0,SC,Darlington,Darlington County School District,4501860
+314,360,Dillon 04,3.0,4134,8,100.0,SC,Dillon 04,Dillon School District 4,4501920
+315,570,Dillon 03,4.0,1624,3,66.3,SC,Dillon 03,Dillon School District 3,4501950
+316,408,Edgefield 01,3.9,3363,8,63.6,SC,Edgefield,Edgefield County School District,4502070
+317,463,Fairfield 01,5.0,2632,8,100.0,SC,Fairfield,Fairfield County School District,4502100
+318,122,Florence 01,4.5,16150,24,66.3,SC,Florence 01,Florence School District 1,4502130
+319,636,Florence 02,3.0,1155,2,62.5,SC,Florence 02,Florence School District 2,4502160
+320,391,Florence 03,2.7,3680,8,100.0,SC,Florence 03,Florence School District 3,4502190
+321,737,Florence 04,2.3,665,3,100.0,SC,Florence 04,Florence School District 4,4502220
+322,628,Florence 05,4.7,1218,3,81.7,SC,Florence 05,Florence School District 5,4502250
+323,202,Georgetown 01,4.3,9315,18,83.1,SC,Georgetown,Georgetown County School District,4502280
+324,24,Greenville 01,6.2,77857,87,52.9,SC,Greenville,Greenville County School District,4502310
+325,209,Greenwood 50,3.8,8886,14,100.0,SC,Greenwood 50,Greenwood School District 50,4502340
+326,665,Greenwood 51,4.7,946,3,83.0,SC,Greenwood 51,Greenwood School District 51,4502370
+327,577,Greenwood 52,5.7,1573,4,55.8,SC,Greenwood 52,Greenwood School District 52,4502400
+328,44,Horry 01,6.6,44930,55,62.9,SC,Horry,Horry County School District,4502490
+329,180,Kershaw 01,5.0,10769,19,57.9,SC,Kershaw,Kershaw County School District,4502550
+330,289,Laurens 55,3.7,5755,9,100.0,SC,Laurens 55,Laurens School District 55,4502610
+331,425,Laurens 56,4.2,3099,6,100.0,SC,Laurens 56,Laurens School District 56,4502640
+332,82,Lexington 01,6.1,26735,30,37.8,SC,Lexington 01,Lexington School District 1,4502700
+333,176,Lexington 02,4.5,11023,18,75.2,SC,Lexington 02,Lexington School District 2,4502730
+334,524,Lexington 03,4.0,2073,4,67.0,SC,Lexington 03,Lexington School District 3,4502760
+335,403,Lexington 04,1.4,3508,7,100.0,SC,Lexington 04,Lexington School District 4,4502790
+336,118,Lexington 05,6.5,17404,22,45.0,SC,Lexington 05,Lexington School District 5,4502820
+337,371,Marlboro 01,3.4,3964,8,100.0,SC,Marlboro,Marlboro County School District,4502970
+338,726,McCormick 01,2.3,699,3,100.0,SC,McCormick,McCormick County School District,4503000
+339,492,Saluda 01,4.8,2328,5,89.2,SC,Saluda,Saluda County School District,4503460
+340,307,Spartanburg 01,6.8,5208,9,50.3,SC,Spartanburg 01,Spartanburg School District 1,4503480
+341,186,Spartanburg 02,6.5,10232,15,52.7,SC,Spartanburg 02,Spartanburg School District 2,4503510
+342,447,Spartanburg 03,5.9,2869,7,65.1,SC,Spartanburg 03,Spartanburg School District 3,4503540
+343,445,Spartanburg 04,7.0,2894,4,64.0,SC,Spartanburg 04,Spartanburg School District 4,4503570
+344,212,Spartanburg 05,5.8,8802,11,44.8,SC,Spartanburg 05,Spartanburg School District 5,4503600
+345,171,Spartanburg 06,4.4,11439,14,64.7,SC,Spartanburg 06,Spartanburg School District 6,4503630
+346,222,Spartanburg 07,4.1,8426,14,85.1,SC,Spartanburg 07,Spartanburg School District 7,4503660
+347,309,Accomack Co Public Schools,4.6,5115,12,64.5,VA,Accomack,Accomack County Public Schools,5100060
+348,139,Albemarle Co Public Schools,4.7,14114,27,33.0,VA,Albemarle,Albemarle County Public Schools,5100090
+349,126,Alexandria City Public Schools,3.7,15966,19,57.1,VA,Alexandria,Alexandria City Public Schools,5100120
+350,549,Amelia Co Public Schools,4.7,1761,3,49.3,VA,Amelia,Amelia County Public Schools,5100180
+351,361,Amherst Co Public Schools,5.6,4123,10,53.3,VA,Amherst,Amherst County Public Schools,5100210
+352,506,Appomattox Co Public Schools,5.0,2221,4,49.5,VA,Appomattox,Appomattox County Public Schools,5100240
+353,78,Arlington Co Public Schools,5.8,27434,33,33.2,VA,Arlington,Arlington County Public Schools,5100270
+354,175,Augusta Co Public Schools,4.6,11051,20,43.5,VA,Augusta,Augusta County Public Schools,5100300
+355,196,Bedford Co Public Schools,5.3,9632,20,43.0,VA,Bedford,Bedford County Public Schools,5100360
+356,718,Bland Co Public Schools,6.5,736,2,46.5,VA,Bland,Bland County Public Schools,5100390
+357,329,Botetourt Co Public Schools,6.5,4659,12,31.5,VA,Botetourt,Botetourt County Public Schools,5100420
+358,499,Bristol City Public Schools,5.8,2271,7,87.2,VA,Bristol,Bristol City Public Schools,5100450
+359,451,Buchanan Co Public Schools,4.0,2862,10,80.4,VA,Buchanan,Buchanan County Public Schools,5100510
+360,515,Buckingham Co Public Schools,3.3,2127,5,72.6,VA,Buckingham,Buckingham County Public Schools,5100540
+361,672,Buena Vista City Public Schools,3.7,918,4,70.0,VA,Buena,Buena Vista City Public Schools,5100560
+362,237,Campbell Co Public Schools,5.1,7890,14,49.1,VA,Campbell,Campbell County Public Schools,5100600
+363,287,Caroline County Public Schools,5.6,5829,10,56.2,MD,,,5100660
+364,88,Carroll County Public Schools,7.7,25137,42,23.2,MD,,,5100690
+365,334,Charlottesville Cty Public Schools,2.6,4559,10,59.3,VA,Charlottesville,Charlottesville City Public Schools,5100780
+366,54,Chesapeake City Public Schools,5.9,40879,45,41.8,VA,Chesapeake,Chesapeake City Public Schools,5100810
+367,449,Colonial Heights City Public Schools,4.4,2866,6,56.0,VA,,,5100960
+368,650,Covington City Public Schools,3.0,1070,3,64.7,VA,Covington City ,Covington City Public Schools,5100990
+369,226,Culpeper Co Public Schools,4.6,8235,11,44.9,VA,Culpeper,Culpeper County Public Schools,5101050
+370,288,Danville City Public Schools,2.2,5766,15,98.2,VA,Danville City ,Danville City Public Schools,5101110
+371,526,Dickenson Co Public Schools,7.0,2054,5,79.6,VA,Dickenson,Dickenson County Public Schools,5101140
+372,345,Dinwiddie Co Public Schools,5.7,4379,7,55.0,VA,Dinwiddie,Dinwiddie County Public Schools,5101170
+373,602,Essex Co Public Schools,3.7,1322,3,84.3,VA,Essex,Essex County Public Schools,5101200
+374,464,Falls Church City Public Schools,6.0,2620,5,4.6,VA,,,5101290
+375,172,Fauquier Co Public Schools,4.9,11186,20,28.9,VA,Fauquier,Fauquier County Public Schools,5101320
+376,396,Fluvanna Co Public Schools,4.3,3590,5,38.8,VA,Fluvanna,Fluvanna County Public Schools,5101380
+377,647,Franklin City Public Schools,4.0,1075,3,99.0,VA,,,5101410
+378,47,Frederick County Public Schools,7.1,42638,64,29.2,MD,,,5101470
+379,390,Fredericksburg City Public Schools,2.3,3710,5,65.6,VA,Fredericksburg,Fredericksburg City Public Schools,5101510
+380,603,Galax City Public Schools,4.7,1321,3,67.7,VA,Galax,Galax City Public Schools,5101560
+381,481,Giles Co Public Schools,5.0,2445,6,51.0,VA,Giles,Giles County Public Schools,5101590
+382,298,Gloucester Co Public Schools,6.1,5408,9,40.9,VA,Gloucester,Gloucester County Public Schools,5101620
+383,460,Goochland Co Public Schools,5.2,2676,5,30.2,VA,Goochland,Goochland County Public Schools,5101650
+384,563,Grayson Co Public Schools,6.5,1667,8,67.6,VA,Grayson,Grayson County Public Schools,5101690
+385,501,Greensville Co Public Schools,2.2,2243,4,97.0,VA,Greensville,Greensville County Public Schools,5101740
+386,108,Hampton City Public Schools,4.8,19589,31,63.5,VA,,,5101800
+387,117,Hanover Co Public Schools,6.0,17726,24,24.1,VA,Hanover,Hanover County Public Schools,5101830
+388,266,Harrisonburg City Public Schools,2.3,6437,10,74.3,VA,,,5101860
+389,37,Henrico Co Public Schools,5.2,51523,66,50.3,VA,Henrico,Henrico County Public Schools,5101890
+390,165,Highlands,3.6,12308,21,76.7,FL,Highland,Highland County Public Schools,5101950
+391,346,Hopewell City Public Schools,3.8,4372,7,94.8,VA,Hopewell,Hopewell City Public Schools,5101980
+392,295,Isle of Wight Co Public Schools,4.6,5531,9,34.0,VA,Isle of Wight ,Isle of Wight County Public Schools,5102010
+393,691,King and Queen Co Public Schools,5.3,829,3,52.0,VA,King and Queen,King and Queen County Public Schools,5102070
+394,505,King William Co Public Schools,4.3,2227,4,30.5,VA,King William ,King William County Public Schools,5102120
+395,22,Loudoun Co Public Schools,5.8,81906,89,19.7,VA,Loudoun,Loudoun County Public Schools,5102250
+396,320,Louisa Co Public Schools,5.0,4906,6,46.8,VA,Louisa,Louisa County Public Schools,5102280
+397,578,Lunenburg Co Public Schools,3.8,1551,4,76.5,VA,Lunenburg,Lunenburg County Public Schools,5102310
+398,223,Lynchburg City Public Schools,3.8,8263,17,81.3,VA,Lynchburg,Lynchburg City Public Schools,5102340
+399,243,Manassas City Public Schools,2.4,7723,10,62.7,VA,,,5102360
+400,389,Manassas Park City Public Schools,3.7,3724,4,64.2,VA,,,5102390
+401,536,Martinsville City Public Schools,4.2,1942,5,98.8,VA,Martinsville,Martinsville City Public Schools,5102400
+402,651,Mathews Co Public Schools,4.3,1064,3,43.3,VA,Mathews,Mathews County Public Schools,5102430
+403,627,Middlesex Co Public Schools,4.3,1222,3,49.3,VA,Middlesex,Middlesex County Public Schools,5102490
+404,9,Montgomery County Public Schools,6.0,153187,173,36.3,MD,,,5102520
+405,546,Nelson Co Public Schools,5.2,1807,4,54.0,VA,Nelson,Nelson County Public Schools,5102580
+406,74,Newport News City Public Schools,3.7,28652,40,74.4,VA,Newport,Newport News City Public Schools,5102640
+407,69,Norfolk City Public Schools,3.5,30087,47,77.0,VA,Norfolk,Norfolk City Public Schools,5102670
+408,609,Northumberland Co Public Schools,5.7,1315,3,58.3,VA,Northumberland,Northumberland County Public Schools,5102730
+409,685,Norton City Public Schools,7.0,842,2,86.5,VA,Norton,Norton City Public Schools,5102760
+410,512,Nottoway Co Public Schools,3.4,2175,5,67.2,VA,Nottoway,Nottoway County Public Schools,5102790
+411,411,Page Co Public Schools,4.6,3348,10,58.8,VA,Page,Page County Public Schools,5102850
+412,466,Patrick Co Public Schools,7.1,2600,7,52.3,VA,Patrick,Patrick County Public Schools,5102880
+413,354,Petersburg City Public Schools,2.0,4194,8,99.1,VA,Petersburg,Petersburg City Public Schools,5102910
+414,210,Pittsylvania Co Public Schools,5.8,8845,19,63.3,VA,Pittsylvania,Pittsylvania County Public Schools,5102940
+415,516,Poquoson City Public Schools,7.3,2119,4,15.2,VA,Poquoson,Poquoson City Public Schools,5102980
+416,142,Portsmouth City Public Schools,3.6,14006,21,78.2,VA,Portsmouth,Portsmouth City Public Schools,5103000
+417,330,Powhatan Co Public Schools,5.4,4654,7,26.5,VA,Powhatan,Powhatan County Public Schools,5103030
+418,523,Prince Edward Co Public Schools,2.0,2079,4,85.0,VA,Prince Edward ,Prince Edward County Public Schools,5103060
+419,248,Prince George Co Public Schools,6.3,7331,9,40.6,VA,Prince George ,Prince George County Public Schools,5103090
+420,20,Prince William Co Public Schools,5.5,90843,90,44.5,VA,Prince William,Prince William County Public Schools,5103130
+421,568,Radford City Public Schools,5.3,1646,4,45.5,VA,Radford,Radford City Public Schools,5103180
+422,702,Rappahannock Co Public Schools,6.0,802,2,36.5,VA,Rappahannock,Rappahannock County Public Schools,5103210
+423,91,Richmond City Public Schools,3.4,24726,46,89.9,VA,Richmond City ,Richmond City Public Schools,5103240
+424,143,Roanoke City Public Schools,4.4,13749,25,93.3,VA,Roanoke City ,Roanoke City Public Schools,5103300
+425,453,Rockbridge Co Public Schools,6.3,2842,6,48.8,VA,Rockbridge,Rockbridge County Public Schools,5103370
+426,379,Russell Co Public Schools,6.4,3868,13,64.5,VA,Russell,Russell County Public Schools,5103420
+427,372,Salem City Public Schools,5.2,3958,6,39.8,VA,,,5103460
+428,402,Scott Co Public Schools,7.5,3533,13,66.8,VA,Scott,Scott County Public Schools,5103480
+429,275,Shenandoah Co Public Schools,3.9,6030,10,45.3,VA,Shenandoah,Shenandoah County Public Schools,5103510
+430,349,Smyth Co Public Schools,5.8,4332,13,73.2,VA,Smyth,Smyth County Public Schools,5103520
+431,448,Southampton Co Public Schools,5.7,2869,7,49.7,VA,Southampton,Southampton County Public Schools,5103600
+432,94,Spotsylvania Co Public Schools,4.6,23668,30,40.2,VA,Spotsylvania,Spotsylvania County Public Schools,5103640
+433,73,Stafford Co Public Schools,5.1,29270,31,31.8,VA,Stafford,Stafford County Public Schools,5103660
+434,458,Staunton City Public Schools,4.6,2727,6,61.8,VA,Staunton,Staunton City Public Schools,5103690
+435,137,Suffolk City Public Schools,5.0,14265,20,53.1,VA,Suffolk,Suffolk City Public Schools,5103710
+436,648,Sussex Co Public Schools,5.0,1074,3,88.3,VA,Sussex,Sussex County Public Schools,5103780
+437,283,Tazewell Co Public Schools,6.6,5913,16,64.6,VA,Tazewell,Tazewell County Public Schools,5103810
+438,433,Waynesboro City Public Schools,3.2,3032,7,68.0,VA,,,5103930
+439,700,West Point Public Schools,8.7,813,3,30.3,VA,West,West Point Town Public Schools,5103950
+440,565,Westmoreland Co Public Schools,5.2,1651,4,77.0,VA,Westmoreland,Westmoreland County Public Schools,5103980
+441,348,Winchester City Public Schools,2.6,4357,7,72.4,VA,Winchester,Winchester City Public Schools,5104050
+442,273,Wise Co Public Schools,8.0,6062,13,78.9,VA,Wise,Wise County Public Schools,5104080
+443,366,Wythe Co Public Schools,7.0,4076,13,50.9,VA,Wythe,Wythe County Public Schools,5104110
+444,484,Barbour County Board of Education,3.9,2431,9,49.1,WV,Barbour,Barbour County School District,5400030
+445,381,Boone County  Schools,4.8,3840,13,57.8,WV,Boone,Boone County School District,5400090
+446,530,Braxton County Schools,3.8,2013,8,59.0,WV,Braxton,Braxton County School District,5400120
+447,325,Brooke County Schools,7.0,4780,16,44.9,WV,Brooke,Brooke County School District,5400150
+448,161,Cabell County Schools,5.2,12517,26,52.6,WV,Cabell,Cabell County School District,5400180
+449,640,Doddridge County Schools,6.0,1124,4,46.8,WV,Doddridge,Doddridge County School District,5400270
+450,322,Greenbrier County Schools,5.1,4868,14,55.3,WV,Greenbrier,Greenbrier County School District,5400390
+451,434,Hampshire County Schools,5.4,3024,10,66.9,WV,Hampshire,Hampshire County School District,5400420
+452,486,Hardy County Schools,3.8,2370,6,46.7,WV,Hardy,Hardy County School District,5400480
+453,86,Kanawha County Schools,5.0,25936,65,55.3,WV,Kanawha,Kanawha County School District,5400600
+454,469,Lewis County Schools,3.2,2581,6,57.5,WV,Lewis,Lewis County School District,5400630
+455,267,Logan County Schools,4.5,6366,20,58.1,WV,Logan,Logan County School District,5400690
+456,331,Marshall County Schools,4.6,4647,14,47.5,WV,Marshall,Marshall County School District,5400750
+457,364,Mason County Schools,4.7,4084,12,52.2,WV,Mason,Mason County School District,5400780
+458,208,McDowell County Schools,4.9,8994,25,62.7,NC,McDowell,McDowell County School District,5400810
+459,206,Mercer County Schools,4.9,9004,26,60.2,WV,Mercer,Mercer County School District,5400840
+460,357,Mineral County Schools,5.2,4165,14,46.3,WV,Mineral,Mineral County School District,5400870
+461,292,Mingo County Schools,4.9,5644,16,63.5,WV,Mingo,Mingo County School District,5400900
+462,168,Monongalia County Schools,5.4,11679,19,42.4,WV,Monongalia,Monongalia School District,5400930
+463,388,Nicholas County Schools,5.1,3735,14,54.2,WV,Nicholas,Nicholas County School District,5401020
+464,303,Ohio County Schools,6.2,5278,12,44.7,WV,Ohio,Ohio County School District,5401050
+465,668,Pendleton County Schools,5.5,931,4,55.2,WV,Pendleton,Pendleton County School District,5401080
+466,645,Pleasants County Schools,6.0,1102,5,41.2,WV,Pleasants,Pleasants County School District,5401110
+467,655,Pocahontas County Schools,4.6,1014,5,55.4,WV,Pocahontas,Pocahontas County School District,5401140
+468,343,Preston County Schools,3.8,4415,10,48.9,WV,Preston,Preston County School District,5401170
+469,162,Raleigh County Schools,4.4,12476,30,58.7,WV,Raleigh,Raleigh County School District,5401230
+470,584,Ritchie County Schools,5.2,1461,6,55.0,WV,Ritchie,Ritchie County School District,5401290
+471,521,Roane County Schools,3.2,2093,5,54.0,WV,Roane,Roane County School District,5401320
+472,579,Summers County Schools,3.6,1510,5,58.0,WV,Summers,Summers County School District,5401350
+473,656,Tucker County Schools,4.7,1013,3,53.7,WV,Tucker,Tucker County School District,5401410
+474,619,Tyler County Schools,6.2,1268,4,44.5,WV,Tyler,Tyler County School District,5401440
+475,385,Upshur County Schools,3.0,3807,10,52.7,WV,Upshur,Upshur County School District,5401470
+476,607,Webster County Schools,4.2,1315,4,69.8,WV,Webster,Webster County School District,5401530
+477,476,Wetzel County Schools,4.5,2527,9,53.6,WV,Wetzel,Wetzel County School District,5401560
+478,657,Wirt County Schools,3.0,1010,3,50.7,WV,Wirt,Wirt County School District,5401590
+479,163,Wood County Schools,6.3,12423,28,52.2,WV,Wood,Wood County School District,5401620
+480,375,Wyoming County Schools,4.9,3947,13,50.2,WV,Wyoming,Wyoming County School District,5401650
